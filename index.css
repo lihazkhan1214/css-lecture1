@@ -1,0 +1,14 @@
+/* h4{
+    background-color: aqua;
+    color: blueviolet;
+} */
+
+/* this is css comments */
+.bluecolor{
+    color:blue;
+}
+/*  id selector*/
+#redcolor
+{
+    color:chocolate;
+}
